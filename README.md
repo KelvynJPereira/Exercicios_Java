@@ -1,2 +1,2 @@
 # Exercicios_Java
-Repositório de exercícios resolvidos em Java
+Estudo de relação entre classes
